@@ -1,19 +1,11 @@
 👋 Hi, I'm @RobLee
 
-IT systems architect exploring the integration of AI and automation in various domains.
-Current Projects:
+A systems strategist focused on creating architectures that connect intelligence, security, and purpose. Over time, the work evolved from technical precision to integrative design, aligning structure, reasoning, and ethical reflection into coherent frameworks.
 
-blogger_dns_check: A macOS/zsh script designed to audit DNS settings for custom domains on Blogger. It verifies CNAME records, checks Google Search Console verification, assesses DNS propagation status, and ensures proper root-to-www domain forwarding.
+Each project builds on a shared foundation of communication, autonomy, and accountability in intelligent systems.
 
-neo-analyzer-repo: An analytical tool aimed at detecting anomalous behaviors in Near-Earth Objects (NEOs) to identify potential artificial influences. This project employs scientific analysis to explore the possibility of engineered celestial objects.
+IICP – Intent-based Inter-agent Communication Protocol explores how independent AI agents can exchange intent, context, and purpose securely and efficiently, forming the basis for scalable, transparent collaboration between intelligent systems.
 
-Historical Expertise:
+ANEOS – Artificial Near-Earth Object Suite investigates anomalous behaviors in celestial trajectories, applying analytical methods to evaluate whether observed motion patterns could reflect engineered or non-random influences.
 
-With a background in IT architecture, I've consistently focused on integrating emerging technologies to enhance system capabilities.
-
-My historical expertise includes:​
-AI Integration: Implementing AI-driven solutions to optimize workflows and decision-making processes across various industries.​
-Security Automation: Developing automated security protocols to protect systems and data, ensuring compliance with industry standards.​
-Legacy System Modernization: Upgrading and integrating legacy systems with modern technologies to improve efficiency and extend system lifespans.​
-
-Throughout my career, I've been committed to leveraging technology to solve complex problems and drive innovation.​
+The guiding principle remains to design systems where complexity serves clarity, and technology enhances human understanding rather than obscuring it. The current focus is on advancing architectures that can communicate, reason, and evolve responsibly, within frameworks built on transparency and long-term trust.
